@@ -3,4 +3,4 @@ It is an implementation of "Any equation is a forest: Symbolic genetic algorithm
 
 This algorithm can efficiently establish mathematical equation with tree representation to fit existing dataset. We can discover partial derivative equation (PDE) with nested forms without any prior knowledge about the equation candidate terms. The genetic algorithm provides exploration and optimization on symbolic mathematics, the forest provides a concise way to represent equations, and machine learning provides a fitting accuracy indicator.
 
-Version: This repo is a very earily version of codes, although it basically covers the core ideas. After publication, we shall release the full codes with prior annotations and instructions. (if could be a bit hard to read and understand without annotations)
+Version: This repo is a very earily version of codes, although it basically covers the core ideas. After publication, we shall release the full codes with proper and sufficient annotations and instructions. (if could be a bit hard to read and understand without annotations)
